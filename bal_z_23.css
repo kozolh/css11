@@ -1,0 +1,26 @@
+p#pogrubienie_bal {
+    font-size: 34px;
+    color: rgb(40, 93, 203);
+}
+p#pochylona_bal {
+    font-size: 39pt;
+    color: rgb(240, 193, 103);
+}
+p#index_gorny_bal {
+    font-size: 5.4cm;
+    color: rgb(160, 143, 23);
+}
+p#index_dolny_bal{
+    font-size: 6.3cm;
+    color: rgb(60%, 43%, 23%);
+}
+p#mono_bal {
+    font-size: 44px;
+    color: rgb(32, 223, 103);
+}
+p#powiekszenie_bal {
+    color: rgb(90, 63, 153);
+}
+p#pomniejszenie_bal {
+    color: rgb(90%, 63%, 53%);
+}
